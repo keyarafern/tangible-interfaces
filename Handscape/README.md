@@ -13,7 +13,7 @@ A p5.js sketch that displays your webcam feed full-screen, mirrored like a selfi
 1. Open a terminal and go to this project folder:
 
    ```bash
-   cd living-wall-sketches
+   cd Handscape
    ```
 
 2. Start a local web server:
